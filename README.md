@@ -1,6 +1,6 @@
 # Projeto Frontend
 
-![Página Inicial](https://github.com/kenjiThiago/desafioExtrarExplorer02/blob/main/imagens/PaginaInicial.png)
+![Página Inicial]()
 
 ## Tecnologias
 - Javascript
